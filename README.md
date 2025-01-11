@@ -122,3 +122,18 @@ When using CCNY dataset, please cite the paper below, because this dataset is re
   pages={4943-4950},
   doi={10.1109/LRA.2023.3290386}}
 ```
+
+```
+@article{HOXHA2025139829,
+title = {Contrastive learning for robust defect mapping in concrete slabs using impact echo},
+journal = {Construction and Building Materials},
+volume = {461},
+pages = {139829},
+year = {2025},
+issn = {0950-0618},
+doi = {https://doi.org/10.1016/j.conbuildmat.2024.139829},
+url = {https://www.sciencedirect.com/science/article/pii/S0950061824049717},
+author = {Ejup Hoxha and Jinglun Feng and Agnimitra Sengupta and David Kirakosian and Yang He and Bo Shang and Ardian Gjinofci and Jizhong Xiao},
+keywords = {Impact echo, Bridge decks, Contrastive learning, Concrete defects}
+}
+```
