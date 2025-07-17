@@ -31,7 +31,7 @@ Contains trimmed IE signals along their respective labels. For more information 
 
 ### Code Examples 
 
-#### CCNY 2022
+#### CCNY 2022 (DS2 in the paper)
 
 ```
 import numpy as np
